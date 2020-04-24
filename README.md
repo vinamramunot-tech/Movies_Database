@@ -23,5 +23,11 @@ $git add .
 $git commit -m "completed phase 1, pushing"
 $git checkout master
 $git merge rohan
+$git branch -d rohan
 $git push origin master
+```
+after updating repeat the process from 
+```markdown
+$git checkout -b rohan
+....
 ```
