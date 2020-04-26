@@ -1,3 +1,32 @@
+body{
+  background-color: rgb(77,77,90);
+}
+
 header, section, footer, aside, nav, main, article, figure {
   display: block;
+}
+
+.navbar-dark .navbar-collapse .form-inline #search{
+  
+  margin: 10px;
+}
+
+.navbar-dark .navbar-collapse .form-inline #share{
+  margin: 10px;
+
+}
+
+#share{
+  padding: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.btn-outline-success #share{
+  border: none;
+}
+
+.fa-share-alt-square:before{
+  font-size: 2.8em;
+  color: #28a745;
 }
