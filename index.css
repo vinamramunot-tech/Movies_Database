@@ -31,7 +31,8 @@ header, section, footer, aside, nav, main, article, figure {
   color: #28a745;
 }
 
-#carousel-tag{
-  padding-top: 90px;
+.carousel-inner{
+  padding-top: 10%;
   
 }
+
