@@ -32,8 +32,20 @@ header, section, footer, aside, nav, main, article, figure {
 }
 
 .carousel-inner{
-  padding-top: 15%;
-  padding-bottom: 2%;
+  padding-top: 63px;
+  padding-bottom: 0.5%;
+  
+  
+  
+}
+
+
+
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+  display: block;
 }
 
 hr{
