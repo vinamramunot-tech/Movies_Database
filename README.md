@@ -9,7 +9,7 @@ $mkdir project_moviedb
 $cd project_moviedb
 $git clone https://github.com/vinamramunot-tech/Movies_Database.git
 $cd Movies_Database
-$git branch rohan
+$git branch "your name"
 $git checkout rohan
 ```
 
